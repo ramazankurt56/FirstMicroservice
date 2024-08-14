@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "k5+LR6lVyIvecbFv89SAte0g4MVzcKwmkNWMepJVgOmxTSp0de0ZSxQ8iAz1bhhYYfQ79MYIEBmpgzqjieqheg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ramaz\\Desktop\\Yeni klasör\\12.Microservice\\FirstMicroservice\\Gateway.YARP\\Gateway.YARP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ramaz\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512",
+    "C:\\Users\\ramaz\\.nuget\\packages\\system.io.hashing\\7.0.0\\system.io.hashing.7.0.0.nupkg.sha512",
+    "C:\\Users\\ramaz\\.nuget\\packages\\yarp.reverseproxy\\2.1.0\\yarp.reverseproxy.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
